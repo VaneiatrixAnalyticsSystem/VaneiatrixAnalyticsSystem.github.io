@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vaneiatrixanalyticssystem.github.io/sitemap.xml
+
+# =========================
+# SEO META INFORMATION
+# =========================
+# <title>Vaneiatrix Analytics System</title>
+# <meta name="description" content="Vaneiatrix Analytics System is an advanced AI-driven analytics platform for predictive intelligence, market modeling, and real-time financial insights.">
+# =========================
